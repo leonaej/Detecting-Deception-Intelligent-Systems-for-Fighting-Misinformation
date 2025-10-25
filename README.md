@@ -1,0 +1,2 @@
+# Detecting-Deception-Intelligent-Systems-for-Fighting-Misinformation
+Hybrid Fake News Detection using Feature Fusion and Ensemble Learning, integrates transformer-based models (RoBERTa) with interpretable, rule-based reasoning. The system fuses linguistic, semantic, and logical features and employs an ensemble framework for improved accuracy, robustness, and explainability on datasets like LIAR and FakeNewsNet.
